@@ -1,0 +1,45 @@
+/* La fuente "Geist Sans and Geist Mono" está licenciada bajo SIL Open Font License (OFL) versión 1.1. Consulta la licencia completa en http://scripts.sil.org/OFL */
+@font-face {
+    font-family: 'Geist Sans and Geist Mono';
+    src: url('Geist-1.3.0/Geist-1.3.0/variable-woff/GeistVF.woff2') format('woff2'),
+         url('ruta/a/tu/archivo-de-fuente.otf') format('opentype');
+}
+
+body {
+    font-family: 'Geist Sans and Geist Mono', sans-serif;
+
+}
+
+h1{
+    color: #171717;
+    font-size: 40px;
+    letter-spacing: -2.4px;
+    line-height: 40px;
+}
+
+h3{
+    color: #171717;
+    font-size: 24px;
+    letter-spacing: -1px;
+    line-height: 32px;
+}
+
+h2{
+    color: #666666;
+    font-size: 20px;
+    letter-spacing: -0.3px;
+    font-size: 36px;
+    line-height: 30px;
+}
+h2:hover{
+    text-decoration: underline;
+
+}
+p{
+    color: #666666;
+    line-height: 13.3px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
